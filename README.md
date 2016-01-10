@@ -5,7 +5,7 @@ This code is as simple as possible. There are many opportunities to increase the
 
 This ties into a Youtube tutorial at:
 
-https://https://youtu.be/oCWfq0d2Prg
+https://www.youtube.com/watch?v=4c0t8PBArvk
 
 If you have any suggestions, questions, compliments, or other ideas then feel free to contact me.
 
